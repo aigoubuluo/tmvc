@@ -1,0 +1,12 @@
+{
+  "development": {
+    "VUE_ELEMENTUI_ADMIN": "//localhost:8091",
+    "VUE_SON_APP":"//localhost:9527",
+    "TAMIL_APP":"//localhost:8507"
+  },
+  "production": {
+    "VUE_ELEMENTUI_ADMIN": "//localhost:8091",
+    "VUE_SON_APP":"//localhost:9527",
+    "TAMIL_APP":"//localhost:8507"
+  }
+}

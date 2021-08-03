@@ -7,6 +7,7 @@
 - 简单介绍一下使用的技术栈，此架构所使用主要两个开源项目以下是详细介绍：
 >（1）qiankun
 是蚂蚁金服开源的一套完整的微前端解决方案。具体描述可查看[文档](https://qiankun.umijs.org/zh/) 和 [Github](https://github.com/umijs/qiankun)
+
 >（2）vue-elment-admin	
 是用于管理界面的生产就绪前端解决方案。它基于vue并使用 UI Toolkit element-ui，具体可查看[文档](https://panjiachen.github.io/vue-element-admin-site/)和[Github](https://github.com/PanJiaChen/vue-element-admin)  [在线查看Gitee](https://panjiachen.gitee.io/vue-element-admin/) 国内用户可访问该地址在线预览
 
@@ -189,7 +190,7 @@ isMicroApp: window.__POWERED_BY_QIANKUN__// 配置微前端菜单显示与否
 ```
 
 
-著作说明：TMVC团队[博客地址访问](https://blog.csdn.net/tamil2021/article/details/119332074这个是说明博客地址)
+著作说明：TMVC团队[博客地址访问](https://blog.csdn.net/tamil2021/article/details/119332074)
 ### 致谢 (Acknowledgements)
 
 - [vue-cli](https://github.com/vuejs/vue-cli)
